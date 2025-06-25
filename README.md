@@ -1,10 +1,5 @@
 # 🍽️ Recipe Explorer Web App – Project Overview
 
-## 👥 Team Members
-- **Lidor Mashiach** — 209280098
-- **Liel Parparov** — 211937354
-- **Noa Shvets** — 322548603
-
 ## 🧾 Description
 
 This project is a recipe management platform that supports:
